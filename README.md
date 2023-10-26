@@ -19,7 +19,7 @@ Projeto feito em Python para automatizar uma tarefa manual de HealthCkech para a
 ## Tela inicial Login
 ![tela_inicial](https://github.com/victorvaz001/Server-Health-Checker-python/assets/42657636/e36bfc15-bc57-4a23-ba49-b724579b49f3)
 
-## Conectando nos servidores e recuperando porcetanges de disco e memoria
+## Conectando nos servidores e recuperando porcetagens de disco e memoria
 ![Recuperando_porcetagens_memoria_disco](https://github.com/victorvaz001/Server-Health-Checker-python/assets/42657636/0230fb62-be11-4ba4-8674-3a87e02490a2)
 
 
