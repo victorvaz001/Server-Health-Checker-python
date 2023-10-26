@@ -1,7 +1,7 @@
 ## Project Server Health Python
 
 ## Sobre o Projeto
-Projeto feito em Python para automatizar uma tarefa manual de HealthCkech para a empresa onde trabalho, antes era preciso conectar em varios servidores e verificar a saude do ambiente, servidor por servidor, com esse sistema e preciso somente executar o arquivo python.py, e gerado um arquivo de texto com todas as porcetagens e uso de disco
+Projeto feito em Python para automatizar uma tarefa manual de HealthCkech, antes era preciso conectar em varios servidores e verificar a saude do ambiente, servidor por servidor, com esse sistema e preciso somente executar o arquivo python.py, e gerado um arquivo de texto com todas as porcetagens e uso de disco
 
 ## Objetivo
 - Conectar via SSH nos servidores utilizando Python
