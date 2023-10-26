@@ -22,6 +22,9 @@ Projeto feito em Python para automatizar uma tarefa manual de HealthCkech para a
 ## Conectando nos servidores e recuperando porcetagens de disco e memoria
 ![Recuperando_porcetagens_memoria_disco](https://github.com/victorvaz001/Server-Health-Checker-python/assets/42657636/0230fb62-be11-4ba4-8674-3a87e02490a2)
 
+## Arquivo de texto gerado
+![arquivo_de_texto_gerado](https://github.com/victorvaz001/Server-Health-Checker-python/assets/42657636/d0de7de9-451d-44ab-afaf-4efce49e4456)
+
 
 ## Autor
 - Victor Gonçalves Vaz
