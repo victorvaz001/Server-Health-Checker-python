@@ -1,0 +1,5 @@
+1 - conectar no servidor via ssh
+2 - dar o comando df -h especificando em qual partição esta a porcentagem de uso
+3 - copiar a porcetagem de uso de cada partição expefica
+4 - Gerar um arquivo com as porcetagens de uso
+5 - colocar cabeçalhos no arquivo para cada servidor

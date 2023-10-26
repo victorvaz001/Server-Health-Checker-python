@@ -1,0 +1,8 @@
+Verificar uso de memoria
+Formula para porcetagem:
+Porcentagem de Uso de Memória = (Memória Usada / Memória Total) * 100
+free -t -m | awk 'NR==2{printf "%.2f%%\n", ($3/$2)*100}'
+
+Verificar porcentagem de disco
+df -h | grep -m 1 "/mongodb/data
+df -h | grep -m 1 "/apidigital

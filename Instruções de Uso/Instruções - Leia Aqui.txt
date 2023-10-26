@@ -1,0 +1,28 @@
+Necessário:
+Linguagem: python
+Biblioteca -> paramiko -> comando para instalar -> pip install paramiko -> pode ser feita instalação pelo CMD ou visual code 
+
+Para executar o arquivo Program.py e necessário seguir os passos abaixo:
+
+1 – Verificar se tem o python instalado
+2 – Abrir o CMD e digitar o comando python --version, se tiver ok, irá aparecer o python com a versão
+3 – Se aparecer algum erro, e necessário sair da VPN e instalar o python https://www.python.org/downloads/
+OBS: quando estiver instalando, marque a opção PATH, para que seja reconhecido o python no sistema.
+4 -  Após instalar o python, feche a instancia do CMD e abra outro terminal, digite novamente o comando python --version
+5 – Se aparecer a versão do python, significa que está instalado corretamente
+6 – se mesmo depois de instalar aparecer erro, continue os passos seguintes
+7 – Clicar no botão do Windows, digite (Editar as variáveis de ambiente do sistema), <- entre nessa opção
+8 – Clicar em Variavel de ambiente
+9 – procurar a pasta PATH, clique em editar
+10 – clique em novo
+11 – ir no diretório onde foi instalado o python e copie o endereço
+12 – colocar na variável de ambiente PATH
+13 – Salvar e fechar
+
+OBS: 
+Após feita a instalação você deve instalar a biblioteca paramiko, com essa biblioteca que vamos conectar via SSH nos servidores!!
+comando:
+pip install paramiko
+
+
+

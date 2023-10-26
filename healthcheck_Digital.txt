@@ -1,0 +1,31 @@
+:: Healthcheck Digital 26/10/2023 ::
+
+..:: Espaço em disco, servidores de Microserviço (Zuul) ::..
+Diretório: /apidigital
+DIGPX15: 15%
+DIGPX16: 25%
+DIGPX31A: 64%
+DIGPX31B: 38%
+DIGPX31C: 15%
+
+..:: Espaço em disco, servidores MONGODB de Microserviços do Legado ::..
+Diretório: /mongodb/data
+DIGPX30A: 78%
+DIGPX30B: 73%
+DIGPX30C: 42%
+
+..:: ELK Nova Fibra -  Utilização de Disco e Memória
+MSDPX02A (Memória): 89.57%
+MSDPX02A (Disco): 81%
+MSDPX02B (Memória): 87.20%
+MSDPX02B (Disco): 75%
+MSDPX02C (Memória): 86.64%
+MSDPX02C (Disco): 83%
+
+..:: Mongo Nova Fibra -  Utilização de Disco e Memória
+MSDPX03A (Memória): 67.77%
+MSDPX03A (Disco): 26%
+MSDPX03B (Memória): 46.50%
+MSDPX03B (Disco): 53%
+MSDPX03C (Memória): 53.25%
+MSDPX03C (Disco): 5%

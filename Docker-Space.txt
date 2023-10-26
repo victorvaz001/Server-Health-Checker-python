@@ -1,0 +1,14 @@
+Data: 26/10/2023 08:43:15
+
+..:: Espaço disponível no Docker Minha Oi e BFF ::..
+
+✅ DIGPX11A - 45.68
+✅ DIGPX11B - 51.55
+⚠️ DIGPX11C - 69.53
+✅ DIGPX11D - 32.68
+✅ DIGPX11E - 45.21
+✅ POAPX08 - 36.90
+✅ POAPX09 - 32.04
+✅ POAPX20A - 28.60
+✅ POAPX20B - 29.60
+✅ POAPX20C - 24.29

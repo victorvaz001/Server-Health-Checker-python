@@ -1,0 +1,6 @@
+1 - no arquivo Program.py, no final da lista 'servers', adicionar o servidores, utilizar o mesmo exemplo
+2 - montar o cabecalho do servidor seguindo o padrão, no arquivo healthcheck_controller.py
+3 - entrar no servidor com ssh, utilizando mobaxterm ou put
+4 - verificar qual partição será copida a porcetagem''
+5 - executar comando df -h | grep -m 1 adicionar a partição da porcentagem, ex: (df -h | grep -m 1 informar_particao)
+6 - adicionar um if com o comando + partição no healthcheck_controller
